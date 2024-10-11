@@ -1,2 +1,2 @@
 # simple-calculator
-java script
+   java script
